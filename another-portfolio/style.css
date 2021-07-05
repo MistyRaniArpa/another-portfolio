@@ -19,6 +19,7 @@ section{
 .header-1{
 width: 50%;
 padding-left: 5%;
+padding-right: 5%;
 
 }
 .header-1 p{
@@ -57,3 +58,32 @@ margin-top: 10%;
 .part-1 p{
     font-size: 20px;
 }
+.last-1{
+
+display: flex;
+}
+
+.header-02{
+    width: 40%;
+    box-shadow: 10px 10px 10px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    border-radius: 15px;
+    padding: 20px;
+    
+
+    }
+    .header-02 p{
+        font-size: 18px;
+font-weight: bold;
+    }
+
+.experience{
+
+background-image: url("images/exp-bg.png");
+background-repeat: no-repeat;
+background-position: left;
+
+}
+
